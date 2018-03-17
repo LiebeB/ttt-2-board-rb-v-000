@@ -1,4 +1,4 @@
-def board = "row"
+def board = "1-9"
 end
 
 def row
