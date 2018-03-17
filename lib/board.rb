@@ -1,1 +1,6 @@
-# Define the variable board below.
+def board = "row"
+end
+
+def row
+  row = [" ", " ", " "," ", " ", " "," ", " ", " "]
+end
