@@ -1,6 +1,5 @@
-def board = _row  
-end
+board = 9
 
-def row
-  row = [" ", " ", " "," ", " ", " "," ", " ", " "]
+def board
+  board = [" ", " ", " "," ", " ", " "," ", " ", " "]
 end
