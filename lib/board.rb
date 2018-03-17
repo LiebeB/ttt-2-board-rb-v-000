@@ -1,3 +1,3 @@
 board = 9
 
-row = Array.new(9)
+board = Array.new(9)
