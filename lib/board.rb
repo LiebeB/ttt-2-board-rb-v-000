@@ -1,5 +1,4 @@
 board = 9
 
-def board
-  board = [" ", " ", " "," ", " ", " "," ", " ", " "]
-end
+row = Array.new(9)
+
